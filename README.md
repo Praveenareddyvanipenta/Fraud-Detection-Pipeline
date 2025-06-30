@@ -48,8 +48,3 @@ docker-compose.yml       # Confluent Kafka stack
 
 ## License
 MIT
-
-## CI
-This repo includes a GitHub Actions workflow (`.github/workflows/ci.yml`) that
-installs dependencies, runs a smoke‑test training job, and lints the code on every
-push or pull request.
